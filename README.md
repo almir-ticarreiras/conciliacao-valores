@@ -3,7 +3,9 @@
 </br>
 </br>
 <b>:: Programa: trata_excel_entrada.py ::</b>
+</br>
 Tem como objetivo facilitar o tratamento do arquivo de balancete, convertendo num formato mais enxuto.
+</br>
 </br>
 <b>Passo a passo para execução:</b>
 </br>1 - Baixe o Balancete do SIGA em formato Excel;
