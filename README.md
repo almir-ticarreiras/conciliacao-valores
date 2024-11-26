@@ -13,3 +13,4 @@ Tem como objetivo facilitar o tratamento do arquivo de balancete, convertendo nu
 </br>3 - Execute o programa "Trata Excel Balancete.exe;
 </br>4 - Siga as instruções do programa, respondendo atentamente as perguntas durante a execução;
 </br>5 - Um arquivo chamado balancete_saida.xlsx será gerado no local indicado por você durante a execução do program
+
